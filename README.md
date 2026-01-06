@@ -147,7 +147,7 @@ It proves the ability to:
 
 - Implement ML from scratch  
 - Design controlled experiments  
-- Explain model behavior  
+-  Explain model behavior  
 - Understand theoretical limitations  
 
 ---
@@ -156,5 +156,14 @@ It proves the ability to:
 
 🧠 *Before neural networks learn to see,*  
 *you must understand how distance learns to lie.*
+
+## 🔍 Keywords
+
+KNN algorithm, K-Nearest Neighbors, machine learning from scratch, 
+cat vs dog image classification, Python machine learning project, 
+distance-based classification, supervised learning, data science portfolio, 
+artificial intelligence project, computer vision basics, classification model, 
+feature vectors, high dimensional data, AI project for beginners.
+
 
 ⭐ **Star the repo** if it helped you see machine learning differently.
